@@ -4,7 +4,6 @@
 #include <stdlib.h>
 #include "TLE.h"
 #include "SGP4.h"
-#include "definitions.h"
 
 // parse the double
 static double gd(char *str, int32_t ind1, int32_t ind2);
